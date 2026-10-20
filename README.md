@@ -1,4 +1,4 @@
-# 🌍 Wanderlust — Airbnb Clone
+# 🌍 Travel-Ora — Airbnb Clone
 
 A **full-stack Airbnb-inspired** accommodation booking platform built as a professional portfolio project. Features a modern React frontend with an Express REST API backend.
 
